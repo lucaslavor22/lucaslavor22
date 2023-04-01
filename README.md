@@ -15,7 +15,7 @@
     <img align="center" alt="Lucas-PYTHON" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Lucas-JAVA" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/master/icons/java/java-original.svg">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img aling="right" alt="Lucas-yoda"
         src="https://cdn.discordapp.com/attachments/795358919417397249/8254305899581688872/h1.gif">
 </div>
