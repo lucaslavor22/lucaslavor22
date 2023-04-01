@@ -19,3 +19,7 @@
     <img aling="right" alt="Lucas-yoda"
         src="https://cdn.discordapp.com/attachments/795358919417397249/8254305899581688872/h1.gif">
 </div>
+
+<div>
+    <a href="https://www.linkedin.com/in/lucas-de-lavor-andrade-49a757240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>
+</div>
