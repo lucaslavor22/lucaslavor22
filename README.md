@@ -1,9 +1,9 @@
-##Olá. Eu sou o Lucas Lavor, seja bem vindo ao meu github!👋
+## Olá. Eu sou o Lucas Lavor, seja bem vindo ao meu github!👋
 
--Tenho 17 anos. <br>
--Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. <br>
--Sou formado em Técnico de Informática na ETEC Jorge Street. <br>
-
+- Tenho 17 anos. <br>
+- Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. <br>
+- Sou formado em Técnico de Informática na ETEC Jorge Street. <br>
+<br>
 <div>
     <a href="https://github.com/lucaslvor22"></a>
     <img height="180em"
@@ -11,8 +11,8 @@
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslavor22&layout=compact&langs_count=168theme=dracula" />
     <br>
-        
-##TECNOLOGIAS QUE USO NO DIA A DIA 💻
+        <br>
+## TECNOLOGIAS QUE USO NO DIA A DIA 💻
  
 </div>
 <div style="display: inline_block"><br>
