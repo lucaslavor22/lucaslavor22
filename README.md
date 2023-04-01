@@ -25,6 +25,7 @@
         src="https://cdn.discordapp.com/attachments/795358919417397249/8254305899581688872/h1.gif">
 </div>
 
-<div>
-    <a href="https://www.linkedin.com/in/lucas-de-lavor-andrade-49a757240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank"></a>
+<div style="display: inline_block"><br>
+    <a href="https://www.linkedin.com/in/lucas-de-lavor-andrade-49a757240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
