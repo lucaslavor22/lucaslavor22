@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Lucas Lavor, seja bem vindo ao meu github! 👋
 
-- Tenho 17 anos. <br>
+- Tenho 18 anos. <br>
 - Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. <br>
 - Sou formado em Técnico de Informática na ETEC Jorge Street. <br>
 <br>
